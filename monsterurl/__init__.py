@@ -14,6 +14,6 @@ def get_monster():
         monsters = f.read().splitlines()
     adjective_1 = capwords(random.choice(adjectives))
     adjective_2 = capwords(random.choice(adjectives))
-    monster = capwords(random.choice(monsters))
+    monster = random.choice(monsters)
     return "%s%s%s" % (adjective_1, adjective_2, monster)
 
