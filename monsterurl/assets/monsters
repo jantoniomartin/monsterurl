@@ -1,20 +1,20 @@
 Aboleth
-Aboleth Mage
+AbolethMage
 Achaierai
 Allip
 Angel
-Astral Deva
+AstralDeva
 Planetar
 Solar
 Ankheg
 Aranea
 Archon
-Lantern Archon
-Hound Archon
-Hound Archon Hero
-Trumpet Archon
+LanternArchon
+HoundArchon
+HoundArchonHero
+TrumpetArchon
 Arrowhawk
-Assassin Vine
+AssassinVine
 Athach
 Avoral
 Azer
@@ -22,13 +22,13 @@ Barghest
 Basilisk
 Behir
 Belker
-Blink Dog
+BlinkDog
 Bodak
 Bralani
 Bugbear
 Bulette
 Centaur
-Chaos Beast
+ChaosBeast
 Chimera
 Choker
 Chuul
@@ -63,7 +63,7 @@ Cornugon
 Gelugon
 Imp
 Lemure
-Pit Fiend
+PitFiend
 Devourer
 Digester
 Dinosaur
@@ -72,60 +72,60 @@ Elasmosaurus
 Megaraptor
 Triceratops
 Tyrannosaurus
-Dire Ape
-Dire Badger
-Dire Bat
-Dire Bear
-Dire Boar
-Dire Lion
-Dire Rat
-Dire Shark
-Dire Tiger
-Dire Weasel
-Dire Wolf
-Dire Wolverine
+DireApe
+DireBadger
+DireBat
+DireBear
+DireBoar
+DireLion
+DireRat
+DireShark
+DireTiger
+DireWeasel
+DireWolf
+DireWolverine
 Doppelganger
-Black Dragon
-Blue Dragon
-Green Dragon
-Red Dragon
-White Dragon
-Brass Dragon
-Bronze Dragon
-Copper Dragon
-Gold Dragon
-Silver Dragon
-Dragon Turtle
+BlackDragon
+BlueDragon
+GreenDragon
+RedDragon
+WhiteDragon
+BrassDragon
+BronzeDragon
+CopperDragon
+GoldDragon
+SilverDragon
+DragonTurtle
 Dragonne
 Drider
 Dryad
 Dwarf
-Deep Dwarf
+DeepDwarf
 Duergar
-Mountain Dwarf
-Giant Eagle
-Air Elemental
-Earth Elemental
-Fire Elemental
-Water Elemental
+MountainDwarf
+GiantEagle
+AirElemental
+EarthElemental
+FireElemental
+WaterElemental
 Elf
 Half-Elf
-Aquatic Elf
+AquaticElf
 Drow
-Gray Elf
-Wild Elf
-Wood Elf
-Ethereal Filcher
-Ethereal Marauder
+GrayElf
+WildElf
+WoodElf
+EtherealFilcher
+EtherealMarauder
 Ettercap
 Ettin
 Formian
 Taskmaster
 Myrmarch
-Frost Worm
+FrostWorm
 Fungus
 Shrieker
-Violet Fungus
+VioletFungus
 Gargoyle
 Kapoacinth
 Genie
@@ -137,42 +137,42 @@ Ghost
 Ghoul
 Lacedon
 Ghast
-Cloud Giant
-Fire Giant
-Frost Giant
-Frost Giant Jarl
-Hill Giant
-Stone Giant
-Storm Giant
-Gibbering Mouther
+CloudGiant
+FireGiant
+FrostGiant
+FrostGiantJarl
+HillGiant
+StoneGiant
+StormGiant
+GibberingMouther
 Girallon
 Gnoll
 Gnome
 Svirfneblin
-Forest Gnome
+ForestGnome
 Goblin
-Clay Golem
-Flesh Golem
-Iron Golem
-Stone Golem
+ClayGolem
+FleshGolem
+IronGolem
+StoneGolem
 Gorgon
-Gray Render
+GrayRender
 Grick
 Griffon
 Grimlock
 Hag
 Annis
-Green Hag
-Sea Hag
+GreenHag
+SeaHag
 Half-Celestial
 Half-Dragon
 Half-Fiend
 Halfling
 Tallfellow
-Deep Halfling
+DeepHalfling
 Harpy
-Hell Hound
-Nessian Warhound
+HellHound
+NessianWarhound
 Hippogriff
 Hobgoblin
 Homunculus
@@ -183,13 +183,13 @@ Cryohydra
 Kolyarut
 Marut
 Zelekhut
-Invisible Stalker
+InvisibleStalker
 Kobold
 Kraken
 Krenshar
 Lamia
 Lammasu
-Golden Protector
+GoldenProtector
 Leonal
 Lich
 Lillend
@@ -204,26 +204,26 @@ Werewolf
 Magmin
 Manticore
 Medusa
-Air Mephit
-Dust Mephit
-Earth Mephit
-Fire Mephit
-Ice Mephit
-Magma Mephit
-Ooze Mephit
-Salt Mephit
-Steam Mephit
-Water Mephit
+AirMephit
+DustMephit
+EarthMephit
+FireMephit
+IceMephit
+MagmaMephit
+OozeMephit
+SaltMephit
+SteamMephit
+WaterMephit
 Merfolk
 Mimic
 Minotaur
 Mohrg
 Mummy
-Dark Naga
-Guardian Naga
-Spirit Naga
-Water Naga
-Night Hag
+DarkNaga
+GuardianNaga
+SpiritNaga
+WaterNaga
+NightHag
 Nightmare
 Cauchemar
 Nightshade
@@ -233,44 +233,44 @@ Nightwing
 Nymph
 Ogre
 Merrow
-Ogre Mage
-Black Pudding
-Elder Black Pudding
-Gelatinous Cube
-Gray Ooze
-Ochre Jelly
+OgreMage
+BlackPudding
+ElderBlackPudding
+GelatinousCube
+GrayOoze
+OchreJelly
 Orc
 Half-Orcs
 Otyugh
-Giant Owl
+GiantOwl
 Owlbear
 Pegasus
-Phantom Fungus
-Phase Spider
+PhantomFungus
+PhaseSpider
 Phasm
 Aasimar
 Tiefling
 Pseudodragon
-Purple Worm
+PurpleWorm
 Rakshasa
 Rast
 Ravid
-Razor Boar
+RazorBoar
 Remorhaz
 Roc
 Roper
-Rust Monster
+RustMonster
 Sahuagin
 Malenti
 Salamander
 Satyr
 Scorpionfolk
-Sea Cat
+SeaCat
 Shadow
-Shadow Mastiff
-Shambling Mound
-Shield Guardian
-Shocker Lizard
+ShadowMastiff
+ShamblingMound
+ShieldGuardian
+ShockerLizard
 Skeleton
 Skum
 Spectre
@@ -278,7 +278,7 @@ Androsphinx
 Criosphinx
 Gynosphinx
 Hieracosphinx
-Spider Eater
+SpiderEater
 Sprite
 Grig
 Nixie
@@ -295,36 +295,36 @@ Troglodyte
 Troll
 Scrag
 Unicorn
-Celestial Charger
+CelestialCharger
 Vampire
-Vampire Spawn
+VampireSpawn
 Vargouille
 Wight
 Will-O’-Wisp
-Winter Wolf
+WinterWolf
 Worg
 Wraith
-Dread Wraith
+DreadWraith
 Wyvern
 Xill
 Xorn
-Yeth Hound
+YethHound
 Yrthak
 Zombie
 Ape
 Baboon
 Badger
 Bat
-Black Bear
-Brown Bear
-Polar Bear
+BlackBear
+BrownBear
+PolarBear
 Bison
 Boar
 Camel
 Cat
 Cheetah
 Crocodile
-Giant Crocodile
+GiantCrocodile
 Dog
 Donkey
 Eagle
@@ -335,10 +335,10 @@ Hyena
 Leopard
 Lion
 Lizard
-Manta Ray
+MantaRay
 Monkey
 Mule
-Giant Octopus
+GiantOctopus
 Owl
 Pony
 Porpoise
@@ -347,25 +347,25 @@ Raven
 Rhinoceros
 Shark
 Snake
-Constrictor Snake
-Viper Snake
-Giant Squid
+ConstrictorSnake
+ViperSnake
+GiantSquid
 Tiger
 Toad
 Weasel
 Whale
-Baleen Whale
-Cachalot Whale
+BaleenWhale
+CachalotWhale
 Orca
 Wolf
 Wolverine
-Giant Ant
-Giant Bee
-Giant Bombardier Beetle
-Giant Fire Beetle
-Giant Stag Beetle
-Giant Praying Mantis
-Giant Wasp
-Monstrous Centipede
-Monstrous Scorpion
-Monstrous Spider
+GiantAnt
+GiantBee
+GiantBombardierBeetle
+GiantFireBeetle
+GiantStagBeetle
+GiantPrayingMantis
+GiantWasp
+MonstrousCentipede
+MonstrousScorpion
+MonstrousSpider
