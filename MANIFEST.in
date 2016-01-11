@@ -1,2 +1,3 @@
 include monsterurl/assets/*
 include README.rst
+include LICENSE
